@@ -12,20 +12,14 @@ Design, Analyse und Problemlösung bei. Diese Fähigkeiten sind für den berufli
 Bei vielen Projekten müssen die Auszubildenden im Team arbeiten. 
 Dies hilft ihnen, ihre Kommunikations-, Kooperations- und Führungsfähigkeiten zu entwickeln.
 
-## Durchführung!
 
 <p align='left'>
-<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="280" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media.giphy.com/media/Rd6sn03ncIklmprvy6/giphy.gif" width="280" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <p align="left">
 
-## Credits:
 
-
-| LF02V2: | [Projekt aufrufen](https://heyzine.com/flip-book/bbb6fc7052.html#page/1)     | 
+| LF02V2: | [Projekt aufrufen >>](https://heyzine.com/flip-book/bbb6fc7052.html#page/1)     | 
 | :-------- | :------- | 
-|LF10aV2:     | [Benutzerschnittstellen gestalten und entwickeln, Achtung dies ist eine Demo-Website: ](https://darwin-paz.ecuadorit.site/) | 
-
-## Fertiges Projekt
-**Achtung,** dies ist eine Demo-Website: 
-[Projekt aufrufen](https://darwin-paz.ecuadorit.site/)
+| LF10aV2:     | [Benutzerschnittstellen gestalten und entwickeln, Achtung dies ist eine Demo-Website >> ](https://darwin-paz.ecuadorit.site/) | 
+| LF-ZQ3a: | [Agile Scrum Präsentation >>](https://heyzine.com/flip-book/c134286abb.html)     | 
 
