@@ -20,27 +20,10 @@ Dies hilft ihnen, ihre Kommunikations-, Kooperations- und Führungsfähigkeiten 
 
 ## Credits:
 
-**Team-mitglieder:**
 
-```bash
-  Darwin Paz & Matthias Majowski
-```
-**Unter der Leitung von:**
-```bash
-  Peter Lübke
-```
-## PS:
-Dabei handelt es sich um ein `Open-Source-Projekt`, das nur für private Zwecke heruntergeladen, geklont und verändert werden darf. 
-Das bedeutet, dass jeder den Web-Portfolio-Code herunterladen und für seine eigenen Projekte verwenden kann, 
-er jedoch nicht für kommerzielle oder gewinnbringende Zwecke verwendet werden kann.
-
-```http
-  Abgabetermin:
-```
-
-| Stadt: | Datum:     | Bis:                       |
-| :-------- | :------- | :-------------------------------- |
-| `Darmstadt`      | `Do - 28.09.2023` | **16:30 Uhr**  |
+| LF02V2: | [Projekt aufrufen](https://heyzine.com/flip-book/bbb6fc7052.html#page/1)     | 
+| :-------- | :------- | 
+|LF10aV2:     | [Benutzerschnittstellen gestalten und entwickeln, Achtung dies ist eine Demo-Website: ](https://darwin-paz.ecuadorit.site/) | 
 
 ## Fertiges Projekt
 **Achtung,** dies ist eine Demo-Website: 
