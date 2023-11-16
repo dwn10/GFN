@@ -23,3 +23,9 @@ Dies hilft ihnen, ihre Kommunikations-, Kooperations- und Führungsfähigkeiten 
 | LF10aV2:     | [Benutzerschnittstellen gestalten und entwickeln, "Achtung, Demo-Website" >> ](https://darwin-paz.ecuadorit.site/) | 
 | LF-ZQ3a: | [Agile Scrum "Präsentation" >>](https://heyzine.com/flip-book/c134286abb.html)     | 
 
+
+### 👅 Dev Quote 👅
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
