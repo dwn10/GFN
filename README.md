@@ -18,8 +18,8 @@ Dies hilft ihnen, ihre Kommunikations-, Kooperations- und Führungsfähigkeiten 
 <p align="left">
 
 
-| LF02V2: | [Projekt aufrufen >>](https://heyzine.com/flip-book/bbb6fc7052.html#page/1)     | 
+| LF02V2: | [Arbeitsplatz nach Kundenwunsch ausstatten "Präsentation" >>](https://heyzine.com/flip-book/bbb6fc7052.html#page/1)     | 
 | :-------- | :------- | 
-| LF10aV2:     | [Benutzerschnittstellen gestalten und entwickeln, Achtung dies ist eine Demo-Website >> ](https://darwin-paz.ecuadorit.site/) | 
-| LF-ZQ3a: | [Agile Scrum Präsentation >>](https://heyzine.com/flip-book/c134286abb.html)     | 
+| LF10aV2:     | [Benutzerschnittstellen gestalten und entwickeln, "Achtung, Demo-Website" >> ](https://darwin-paz.ecuadorit.site/) | 
+| LF-ZQ3a: | [Agile Scrum "Präsentation" >>](https://heyzine.com/flip-book/c134286abb.html)     | 
 
