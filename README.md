@@ -24,6 +24,8 @@ Dies hilft ihnen, ihre Kommunikations-, Kooperations- und Führungsfähigkeiten 
 | LF-ZQ3a: | [Agile Scrum "Präsentation" >>](https://heyzine.com/flip-book/c134286abb.html)     | 
 | LF-ZQ8a: | [HTML CSS JS "Thema : Pizzeria" >>](https://github.com/dwn10/LF-ZQ8a-Projekt)     |
 | LT-4V2: | [SQL + Mini CRUD "Projekt" >>](https://github.com/dwn10/SQL-LT4V2-Projekt)     |
+| LT-12a: | [Zeiterfassungs-App "Projekt" >>](https://github.com/dwn10/LF12a)     |
+
 
 
 ### 👅 Dev Quote 👅
