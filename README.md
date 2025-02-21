@@ -25,6 +25,7 @@ Dies hilft ihnen, ihre Kommunikations-, Kooperations- und Führungsfähigkeiten 
 | LF-ZQ8a: | [HTML CSS JS "Thema : Pizzeria" >>](https://github.com/dwn10/LF-ZQ8a-Projekt)     |
 | LT-4V2: | [SQL + Mini CRUD "Projekt" >>](https://github.com/dwn10/SQL-LT4V2-Projekt)     |
 | LT-12a: | [Zeiterfassungs-App "Projekt" >>](https://github.com/dwn10/LF12a)     |
+| IKH AP2: | [IHK Präsentation "Projekt" >>](https://heyzine.com/flip-book/a60e45f651.html)     |
 
 
 
