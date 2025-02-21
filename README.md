@@ -18,10 +18,10 @@ Dies hilft ihnen, ihre Kommunikations-, Kooperations- und Führungsfähigkeiten 
 <p align="left">
 
 
-| LF02V2: | [Arbeitsplatz nach Kundenwunsch ausstatten "Präsentation" >>](https://heyzine.com/flip-book/bbb6fc7052.html#page/1)     | 
+| LF02V2: | [Arbeitsplatz nach Kundenwunsch ausstatten "Präsentation" >>](https://heyzine.com/flip-book/68343e51e8.html)     |
 | :-------- | :------- | 
-| LF10aV2:     | [Benutzerschnittstellen gestalten und entwickeln, "Achtung, Demo-Website" >> ](https://darwin-paz.ecuadorit.site/) | 
-| LF-ZQ3a: | [Agile Scrum "Präsentation" >>](https://heyzine.com/flip-book/c134286abb.html)     | 
+| LF10aV2:     | [Benutzerschnittstellen gestalten und entwickeln, "Achtung, Demo-Website" >> ](https://darwin-paz.ecuadorit.site/) |
+| LF-ZQ3a: | [Agile Scrum "Präsentation" >>](https://heyzine.com/flip-book/c134286abb.html)     |
 | LF-ZQ8a: | [HTML CSS JS "Thema : Pizzeria" >>](https://github.com/dwn10/LF-ZQ8a-Projekt)     |
 | LT-4V2: | [SQL + Mini CRUD "Projekt" >>](https://github.com/dwn10/SQL-LT4V2-Projekt)     |
 | LT-12a: | [Zeiterfassungs-App "Projekt" >>](https://github.com/dwn10/LF12a)     |
