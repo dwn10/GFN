@@ -26,7 +26,7 @@ Dies hilft ihnen, ihre Kommunikations-, Kooperations- und Führungsfähigkeiten 
 | LT-4V2: | [SQL + Mini CRUD "Projekt" >>](https://github.com/dwn10/SQL-LT4V2-Projekt)     |
 | LT-12a: | [Zeiterfassungs-App "Projekt" >>](https://github.com/dwn10/LF12a)     |
 | IHK AP2: | [IHK Projekt "Präsentation" >>](https://heyzine.com/flip-book/a60e45f651.html)     |
-| HarvardX : | [CS50x "Final Projekt" >>](https://github.com/dwn10/CS50_FINAL_PROJECT)     |
+| Harvard: | [CS50x "Final Projekt" >>](https://github.com/dwn10/CS50_FINAL_PROJECT)     |
 
 
 
