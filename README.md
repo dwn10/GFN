@@ -28,6 +28,7 @@ Dies hilft ihnen, ihre Kommunikations-, Kooperations- und Führungsfähigkeiten 
 | IHK AP2: | [IHK Projekt "Präsentation" >>](https://heyzine.com/flip-book/a60e45f651.html)     |
 | Harvard: | [CS50x "Final Projekt" >>](https://github.com/dwn10/CS50_FINAL_PROJECT)     |
 | Harvard: | [CS50x Cybersecurity "Final Projekt" >>](https://youtu.be/3Bf--zUYMxg)     |
+| Harvard: | [CS50x SQL "Final Projekt" >>](https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/SQL/README.md)     |
 
 
 
