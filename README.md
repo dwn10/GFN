@@ -35,6 +35,18 @@ Dies hilft ihnen, ihre Kommunikations-, Kooperations- und Führungsfähigkeiten 
 ### 👅 Dev Quote 👅
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<br>
+<p align="center">
+  <a href="https://github.com/dwn10/C_C_C/blob/main/PROJEKT/Documentation/HTML/DarwinPaz/Projects.md">
+    <img src="https://img.shields.io/badge/◀_Ir-CurrentProjects-gray?style=for-the-badge">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="./ArteQ.md">
+    <img src="https://img.shields.io/badge/Siguiente_Proyecto-ArteQ-blue?style=for-the-badge">
+  </a>
+</p>
+
+
 ---
 <br>
 <p align="center">
