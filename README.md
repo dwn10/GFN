@@ -42,7 +42,6 @@ Dies hilft ihnen, ihre Kommunikations-, Kooperations- und Führungsfähigkeiten 
   <a href="https://github.com/dwn10/C_C_C/tree/main/PROJEKT/Documentation/HTML/DarwinPaz"><img src="https://img.shields.io/badge/Art_Contributions-blue?style=for-the-badge"></a>
 </p>
 
-
 ---
 <br>
 <p align="center">
