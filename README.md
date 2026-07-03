@@ -36,4 +36,8 @@ Dies hilft ihnen, ihre Kommunikations-, Kooperations- und Führungsfähigkeiten 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+<br>
+<p align="center">
+  <small>All rights reserved © 2026 | <a href="https://github.com/dwn10">Darwin Paz</a></small>
+</p>
 
